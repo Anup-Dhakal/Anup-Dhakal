@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [www.anupdhakal1.com.np](www.anupdhakal1.com.np)
 
-- 📫 How to reach me **anupdhakal007@gmail.com**
+- 📫 How to reach me **anup.dhakal007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

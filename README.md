@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anup Dhakal</h1>
-<h3 align="center">AI/ML Enthusiast A passionate backend developer</h3>
+<h3 align="center">AI/ML Enthusiast Aspiring backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anup-dhakal&label=Profile%20views&color=0e75b6&style=flat" alt="anup-dhakal" /> </p>
 

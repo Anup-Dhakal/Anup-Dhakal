@@ -73,7 +73,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anup-Dhakal&show_icons=true&theme=radical&hide_border=true" alt="Anup's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anup-Dhakal&show_icons=true&theme=radical&hide_border=true" alt="" />
 </p>
 
 <p align="center">
@@ -81,5 +81,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anup-Dhakal&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anup-Dhakal&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="" />
 </p>

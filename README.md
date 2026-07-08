@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anup-dhakal&label=Profile%20views&color=0e75b6&style=flat" alt="anup-dhakal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anup-dhakal" alt="anup-dhakal" /></a> </p>
-
 - 🔭 I’m currently working on **Ecommerce Site**
 
 - 🌱 I’m currently learning **Django,ReactJS**
